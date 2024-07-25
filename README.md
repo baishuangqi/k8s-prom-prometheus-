@@ -55,10 +55,6 @@ kubectl apply -f alertmanager/
 ![图书封面](https://github.com/iKubernetes/Kubernetes_Advanced_Practical_2rd/raw/main/imgs/book.jpg)
 
 
-## 版权声明
-本文档由[马哥教育](www.magedu.com)开发，允许自由转载，但必须保留马哥教育及相关的一切标识。另外，商用需要征得马哥教育的书面同意。
-
-
 ### 参考文献
 
 - https://github.com/stefanprodan/k8s-prom-hpa
